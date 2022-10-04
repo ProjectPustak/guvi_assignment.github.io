@@ -14,7 +14,7 @@ To check this webpage click Here
 6. jquery
 7. Mysql
 8. BootStrap
-9. SweatAleart
+9. SweetAlert
 
 # Output
 
