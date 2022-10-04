@@ -13,3 +13,7 @@ Here I am Using This Thing:-
 5)Ajax
 6)jquery
 7)Mysql
+
+# Output
+
+![document](https://user-images.githubusercontent.com/92563905/193775738-1ac9be42-9b53-460f-8d08-f67d4c03167a.png)
