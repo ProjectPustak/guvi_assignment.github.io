@@ -17,3 +17,8 @@ Here I am Using This Thing:-
 # Output
 
 ![document](https://user-images.githubusercontent.com/92563905/193775738-1ac9be42-9b53-460f-8d08-f67d4c03167a.png)
+
+
+# DataBase Part
+
+![data2](https://user-images.githubusercontent.com/92563905/193777815-386825a6-8cae-49fd-80b0-7fadc6c8f7b8.png)
