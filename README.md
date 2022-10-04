@@ -1,5 +1,5 @@
 # Sign up Page Using PHP
-You can check this webpage click Here
+To check this webpage click Here
 
 [Click Me](https://akash.twentyfive.link/login.php)
 
